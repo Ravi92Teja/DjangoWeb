@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'RocketLaunch'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_146A20B0AE7B44C88A3A810A7ED974AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4B4CDA010AD045219146778976A21DE3 }}
